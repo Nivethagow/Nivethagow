@@ -4,7 +4,7 @@
 
 I am a Data Engineer and recent MS Business Analytics graduate passionate about **data engineering, business intelligence, and cloud solutions**.  
 At Infosys (for CVS Health), I worked on **Informatica PowerCenter, SQL Server, Oracle, Teradata, PostgreSQL, MySQL** to design and optimize large-scale ETL workflows.  
-Now, I am expanding into **cloud-native data pipelines** with **AWS (S3, Glue, Redshift, dbt, Airflow, Terraform) and Snowflake** while exploring my interests in **NLP, AI, and Machine Learning**.  
+Now, I am expanding into cloud-native data pipelines with AWS (S3, Glue, Redshift), Snowflake, and MongoDB, using modern orchestration and transformation tools such as Airflow, dbt, and Apache Spark (PySpark), while also applying my interests in NLP, AI, and Machine Learning through projects involving topic modeling, custom NER, and sentiment/emotion analysis.  
 
 ---
 
