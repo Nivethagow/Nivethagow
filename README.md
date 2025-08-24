@@ -3,8 +3,8 @@
 ## Welcome to my GitHub Profile  
 
 I am a Data Engineer and recent MS Business Analytics graduate passionate about **data engineering, business intelligence, and cloud solutions**.  
-At Infosys (for CVS Health), I worked on **Informatica PowerCenter, SQL Server, Oracle, Teradata, PostgreSQL** to design and optimize large-scale ETL workflows.  
-Now, I am expanding into **cloud-native data pipelines** with **AWS (S3, Glue, Redshift, dbt, Airflow, Terraform)** while exploring my interests in **NLP, AI, and Machine Learning**.  
+At Infosys (for CVS Health), I worked on **Informatica PowerCenter, SQL Server, Oracle, Teradata, PostgreSQL, MySQL** to design and optimize large-scale ETL workflows.  
+Now, I am expanding into **cloud-native data pipelines** with **AWS (S3, Glue, Redshift, dbt, Airflow, Terraform) and Snowflake** while exploring my interests in **NLP, AI, and Machine Learning**.  
 
 ---
 
@@ -23,7 +23,6 @@ In addition, I am skilled in building **HIPAA-compliant data solutions** and dep
 Data Engineering & Cloud Pipelines (ETL, orchestration, monitoring)  
 NLP & AI — topic modeling, custom NER, sentiment & emotion analysis  
 Data Visualization — building interactive dashboards for business insights  
-Applying analytics in **healthcare, retail, and renewable energy** domains  
 
 ---
 
