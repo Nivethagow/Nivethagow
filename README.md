@@ -10,7 +10,7 @@ Now, I am expanding into cloud-native data pipelines with AWS (S3, Glue, Redshif
 
 ## Technical Skills  
 
-I work mainly with **Python** and **SQL**. For data pipelines and integration, I have hands-on experience with **Informatica, SSIS, and Databricks**.  
+I work mainly with Python and SQL. For data pipelines and integration, I have hands-on experience with big data frameworks such as **Apache Spark (PySpark) and Databricks, as well as orchestration and transformation tools like dbt and Apache Airflow, along with cloud-native platforms including AWS and Snowflake**
 On the analytics side, I use **Tableau, Power BI, and SSRS** for dashboards and reporting.  
 I also work with **PySpark** for large-scale processing and experiment with **ML/NLP libraries** like scikit-learn, BERTopic, and BERT models.  
 
