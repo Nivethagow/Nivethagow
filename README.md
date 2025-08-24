@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Profile  
 
-I am a Data Engineer and MS Business Analytics student passionate about **data engineering, business intelligence, and cloud solutions**.  
+I am a Data Engineer and recent MS Business Analytics graduate passionate about **data engineering, business intelligence, and cloud solutions**.  
 At Infosys (for CVS Health), I worked on **Informatica PowerCenter, SQL Server, Oracle, Teradata, PostgreSQL** to design and optimize large-scale ETL workflows.  
 Now, I am expanding into **cloud-native data pipelines** with **AWS (S3, Glue, Redshift, dbt, Airflow, Terraform)** while exploring my interests in **NLP, AI, and Machine Learning**.  
 
